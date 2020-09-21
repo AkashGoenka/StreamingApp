@@ -1,0 +1,51 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is an awesome stream",
+      "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "This is an another stream",
+      "id": 2
+    },
+    {
+      "title": "Test Stream",
+      "description": "This is a test",
+      "id": 3
+    },
+    {
+      "title": "My Stream another",
+      "description": "This is my first stream",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "1234"
+      },
+      "id": 4
+    },
+    {
+      "title": "My Stream again",
+      "description": "again",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "3456"
+      },
+      "id": 5
+    },
+    {
+      "title": "My Test Stream",
+      "description": "Test Stream discussion modified",
+      "id": 6,
+      "isSignedIn": true,
+      "userId": "5678"
+    },
+    {
+      "title": "Stream Component Reuse",
+      "description": "Refactoring Component !!!",
+      "isSignedIn": true,
+      "userId": "7890",
+      "id": 7
+    }
+  ]
+}
