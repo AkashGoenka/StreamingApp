@@ -1,3 +1,5 @@
+/* This is the file where data created from UI is stored. It has some test data as of now */
+
 {
   "streams": [
     {
